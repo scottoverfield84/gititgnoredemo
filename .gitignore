@@ -1,0 +1,5 @@
+secrets.txt
+*.log
+package.json
+test/
+index.js
